@@ -1,6 +1,6 @@
 # ASP.NET MVC Kurs Uygulaması
 
-Bu, ASP.NET MVC mimarisini, Routing işlemlerini ve Razor sayfalarını Bootstrap kütüphanleri ile birlikte kullanımını deneyimlemek amacıyla geliştirilmiş örnek bir ASP.NET MVC uygulamasıdır.
+Bu, ASP.NET MVC mimarisini, Routing işlemlerini ve Razor sayfalarını Bootstrap kütüphanleri ile birlikte kullanımını deneyimlemek amacıyla geliştirilmiş örnek bir ASP.NET MVC uygulamasıdır. 
 
 ## Özellikler
 - Bootstrap ile tasarlanmış Razor sayfları
