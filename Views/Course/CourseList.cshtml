@@ -1,0 +1,11 @@
+﻿@model List<Course>
+
+<h1>deneme</h1>
+
+@foreach (var kurs in Model)                        //şuanda burda  Model kurs listesi oluyor    @Razor kodu kullanacağımız her satırda //~ işareti static file lar iöin olan middlWare in belirlediği yolu temsil ediyor
+{
+    if (kurs.isActive)
+    {
+        @await Html.PartialAsync("_Course", kurs)
+    }
+}
